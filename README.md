@@ -618,7 +618,7 @@ indian-accent-detection/
 | **HuBERT** | 768-dim embeddings | 85-92% | Better ✅ | Slower 🐢 |
 
 ### Key Findings
-- ✅ **MFCC:** Excellent validation accuracy but may overfit
+- ✅ **MFCC:** Good accuracy but may overfit
 - ✅ **HuBERT:** More realistic and generalizable performance
 - ✅ **Sentence-level:** 15-20% better than word-level
 - ✅ **Layer 9-11:** Optimal HuBERT layers for accent detection
@@ -834,3 +834,4 @@ If you use this work, please cite:
 **🐛 Report issues:** [GitHub Issues](https://github.com/yourusername/indian-accent-detection/issues)
 
 **📧 Questions?** Contact: [Your Email]
+
