@@ -1,0 +1,10 @@
+datasets
+librosa
+numpy
+torch
+transformers
+scikit-learn
+gradio
+matplotlib
+tqdm
+soundfile
